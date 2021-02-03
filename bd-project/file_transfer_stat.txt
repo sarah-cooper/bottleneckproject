@@ -1,0 +1,1029 @@
+start time = Fri Nov 22 08:15:58 2019
+Source: file:///fsx/files/
+Dest:   ftp://172.31.21.192:50505/home/ubuntu/
+  large_file_0  ->  large_file
+
+      1048576 bytes         0.36 MB/sec avg         0.36 MB/sec inst
+    104857600 bytes        26.69 MB/sec avg        99.00 MB/sec inst
+    221249536 bytes        44.45 MB/sec avg       111.00 MB/sec inst
+    337641472 bytes        56.03 MB/sec avg       111.00 MB/sec inst
+    454033408 bytes        64.18 MB/sec avg       111.00 MB/sec inst
+    570425344 bytes        70.22 MB/sec avg       111.00 MB/sec inst
+    686817280 bytes        74.88 MB/sec avg       111.00 MB/sec inst
+    803209216 bytes        78.59 MB/sec avg       111.00 MB/sec inst
+    918552576 bytes        81.51 MB/sec avg       110.00 MB/sec inst
+   1034944512 bytes        84.02 MB/sec avg       111.00 MB/sec inst
+   1151336448 bytes        86.14 MB/sec avg       111.00 MB/sec inst
+   1265631232 bytes        87.80 MB/sec avg       109.00 MB/sec inst
+   1379926016 bytes        89.24 MB/sec avg       109.00 MB/sec inst
+   1493172224 bytes        90.43 MB/sec avg       108.00 MB/sec inst
+   1611661312 bytes        91.78 MB/sec avg       113.00 MB/sec inst
+   1727004672 bytes        92.29 MB/sec avg       100.00 MB/sec inst
+   1844445184 bytes        93.33 MB/sec avg       112.00 MB/sec inst
+   1960837120 bytes        94.22 MB/sec avg       111.00 MB/sec inst
+   2078277632 bytes        95.07 MB/sec avg       112.00 MB/sec inst
+   2193620992 bytes        95.76 MB/sec avg       110.00 MB/sec inst
+   2308964352 bytes        96.38 MB/sec avg       110.00 MB/sec inst
+   2426404864 bytes        97.04 MB/sec avg       112.00 MB/sec inst
+   2543845376 bytes        97.64 MB/sec avg       112.00 MB/sec inst
+   2661285888 bytes        98.19 MB/sec avg       112.00 MB/sec inst
+   2776629248 bytes        98.63 MB/sec avg       110.00 MB/sec inst
+   2895118336 bytes        99.15 MB/sec avg       113.00 MB/sec inst
+   3012558848 bytes        99.60 MB/sec avg       112.00 MB/sec inst
+   3128950784 bytes        99.98 MB/sec avg       111.00 MB/sec inst
+   3244294144 bytes       100.30 MB/sec avg       110.00 MB/sec inst
+   3362783232 bytes       100.70 MB/sec avg       113.00 MB/sec inst
+   3480223744 bytes       101.04 MB/sec avg       112.00 MB/sec inst
+   3595567104 bytes       101.01 MB/sec avg       100.00 MB/sec inst
+   3714056192 bytes       101.35 MB/sec avg       113.00 MB/sec inst
+   3830448128 bytes       101.62 MB/sec avg       111.00 MB/sec inst
+   3948937216 bytes       101.93 MB/sec avg       113.00 MB/sec inst
+   4068474880 bytes       102.25 MB/sec avg       114.00 MB/sec inst
+   4186963968 bytes       102.52 MB/sec avg       113.00 MB/sec inst
+   4302307328 bytes       102.71 MB/sec avg       110.00 MB/sec inst
+   4420796416 bytes       102.96 MB/sec avg       113.00 MB/sec inst
+   4537188352 bytes       103.15 MB/sec avg       111.00 MB/sec inst
+   4653580288 bytes       103.34 MB/sec avg       111.00 MB/sec inst
+   4771020800 bytes       103.53 MB/sec avg       112.00 MB/sec inst
+   4888461312 bytes       103.72 MB/sec avg       112.00 MB/sec inst
+   5007998976 bytes       103.72 MB/sec avg       103.64 MB/sec inst
+   5124390912 bytes       103.88 MB/sec avg       111.00 MB/sec inst
+   5243928576 bytes       104.09 MB/sec avg       114.00 MB/sec inst
+   5364514816 bytes       104.31 MB/sec avg       115.00 MB/sec inst
+   5481955328 bytes       104.46 MB/sec avg       112.00 MB/sec inst
+   5599395840 bytes       104.61 MB/sec avg       112.00 MB/sec inst
+   5715787776 bytes       104.73 MB/sec avg       111.00 MB/sec inst
+   5834276864 bytes       104.89 MB/sec avg       113.00 MB/sec inst
+   5950668800 bytes       105.00 MB/sec avg       111.00 MB/sec inst
+   6068109312 bytes       105.13 MB/sec avg       112.00 MB/sec inst
+   6184501248 bytes       105.05 MB/sec avg       100.91 MB/sec inst
+   6301941760 bytes       105.17 MB/sec avg       112.00 MB/sec inst
+   6418333696 bytes       105.27 MB/sec avg       111.00 MB/sec inst
+   6536822784 bytes       105.40 MB/sec avg       113.00 MB/sec inst
+   6652166144 bytes       105.48 MB/sec avg       110.00 MB/sec inst
+   6768558080 bytes       105.57 MB/sec avg       111.00 MB/sec inst
+   6884950016 bytes       105.65 MB/sec avg       111.00 MB/sec inst
+   7000293376 bytes       105.72 MB/sec avg       110.00 MB/sec inst
+   7117733888 bytes       105.82 MB/sec avg       112.00 MB/sec inst
+   7235174400 bytes       105.91 MB/sec avg       112.00 MB/sec inst
+   7351566336 bytes       105.99 MB/sec avg       111.00 MB/sec inst
+   7466909696 bytes       106.05 MB/sec avg       110.00 MB/sec inst
+   7586447360 bytes       106.17 MB/sec avg       114.00 MB/sec inst
+   7703887872 bytes       106.25 MB/sec avg       112.00 MB/sec inst
+   7821328384 bytes       106.33 MB/sec avg       112.00 MB/sec inst
+   7937720320 bytes       106.40 MB/sec avg       111.00 MB/sec inst
+   8059355136 bytes       106.53 MB/sec avg       116.00 MB/sec inst
+   8178892800 bytes       106.49 MB/sec avg       103.64 MB/sec inst
+   8294236160 bytes       106.54 MB/sec avg       110.00 MB/sec inst
+   8407482368 bytes       106.56 MB/sec avg       108.00 MB/sec inst
+   8527020032 bytes       106.65 MB/sec avg       114.00 MB/sec inst
+   8643411968 bytes       106.71 MB/sec avg       111.00 MB/sec inst
+   8760852480 bytes       106.78 MB/sec avg       112.00 MB/sec inst
+   8879341568 bytes       106.86 MB/sec avg       113.00 MB/sec inst
+   8997830656 bytes       106.93 MB/sec avg       113.00 MB/sec inst
+   9114222592 bytes       106.98 MB/sec avg       111.00 MB/sec inst
+   9231663104 bytes       107.04 MB/sec avg       112.00 MB/sec inst
+   9348055040 bytes       107.09 MB/sec avg       111.00 MB/sec inst
+   9462349824 bytes       107.11 MB/sec avg       109.00 MB/sec inst
+   9580838912 bytes       107.18 MB/sec avg       113.00 MB/sec inst
+   9697230848 bytes       107.23 MB/sec avg       111.00 MB/sec inst
+   9812574208 bytes       107.26 MB/sec avg       110.00 MB/sec inst
+   9928966144 bytes       107.30 MB/sec avg       111.00 MB/sec inst
+  10045358080 bytes       107.22 MB/sec avg       100.91 MB/sec inst
+  10157555712 bytes       107.22 MB/sec avg       107.00 MB/sec inst
+  10276044800 bytes       107.28 MB/sec avg       113.00 MB/sec inst
+  10396631040 bytes       107.37 MB/sec avg       115.00 MB/sec inst
+  10516168704 bytes       107.44 MB/sec avg       114.00 MB/sec inst
+  10634657792 bytes       107.50 MB/sec avg       113.00 MB/sec inst
+  10746855424 bytes       107.49 MB/sec avg       107.00 MB/sec inst
+  10863247360 bytes       107.53 MB/sec avg       111.00 MB/sec inst
+  10979639296 bytes       107.56 MB/sec avg       111.00 MB/sec inst
+  11097079808 bytes       107.61 MB/sec avg       112.00 MB/sec inst
+  11213471744 bytes       107.64 MB/sec avg       111.00 MB/sec inst
+  11329863680 bytes       107.68 MB/sec avg       111.00 MB/sec inst
+  11448352768 bytes       107.62 MB/sec avg       102.73 MB/sec inst
+  11564744704 bytes       107.66 MB/sec avg       111.00 MB/sec inst
+  11682185216 bytes       107.70 MB/sec avg       112.00 MB/sec inst
+  11800674304 bytes       107.75 MB/sec avg       113.00 MB/sec inst
+  11919163392 bytes       107.80 MB/sec avg       113.00 MB/sec inst
+  12036603904 bytes       107.84 MB/sec avg       112.00 MB/sec inst
+  12152995840 bytes       107.87 MB/sec avg       111.00 MB/sec inst
+  12270436352 bytes       107.91 MB/sec avg       112.00 MB/sec inst
+  12386828288 bytes       107.93 MB/sec avg       111.00 MB/sec inst
+  12503220224 bytes       107.96 MB/sec avg       111.00 MB/sec inst
+  12621709312 bytes       108.01 MB/sec avg       113.00 MB/sec inst
+  12738101248 bytes       108.03 MB/sec avg       111.00 MB/sec inst
+  12855541760 bytes       108.07 MB/sec avg       112.00 MB/sec inst
+  12972982272 bytes       108.01 MB/sec avg       101.82 MB/sec inst
+  13091471360 bytes       108.05 MB/sec avg       113.00 MB/sec inst
+  13209960448 bytes       108.09 MB/sec avg       113.00 MB/sec inst
+  13327400960 bytes       108.13 MB/sec avg       112.00 MB/sec inst
+  13445890048 bytes       108.17 MB/sec avg       113.00 MB/sec inst
+  13562281984 bytes       108.19 MB/sec avg       111.00 MB/sec inst
+  13678673920 bytes       108.22 MB/sec avg       111.00 MB/sec inst
+  13798211584 bytes       108.26 MB/sec avg       114.00 MB/sec inst
+  13913554944 bytes       108.28 MB/sec avg       110.00 MB/sec inst
+  14027849728 bytes       108.28 MB/sec avg       109.00 MB/sec inst
+  14149484544 bytes       108.34 MB/sec avg       116.00 MB/sec inst
+  14264827904 bytes       108.36 MB/sec avg       110.00 MB/sec inst
+  14381219840 bytes       108.38 MB/sec avg       111.00 MB/sec inst
+  14495514624 bytes       108.38 MB/sec avg       109.00 MB/sec inst
+  14611906560 bytes       108.40 MB/sec avg       111.00 MB/sec inst
+  14730395648 bytes       108.36 MB/sec avg       102.73 MB/sec inst
+  14846787584 bytes       108.38 MB/sec avg       111.00 MB/sec inst
+  14965276672 bytes       108.41 MB/sec avg       113.00 MB/sec inst
+  15084814336 bytes       108.45 MB/sec avg       114.00 MB/sec inst
+  15201206272 bytes       108.47 MB/sec avg       111.00 MB/sec inst
+  15319695360 bytes       108.51 MB/sec avg       113.00 MB/sec inst
+  15435038720 bytes       108.52 MB/sec avg       110.00 MB/sec inst
+  15551430656 bytes       108.54 MB/sec avg       111.00 MB/sec inst
+  15669919744 bytes       108.57 MB/sec avg       113.00 MB/sec inst
+  15784214528 bytes       108.57 MB/sec avg       109.00 MB/sec inst
+  15902703616 bytes       108.60 MB/sec avg       113.00 MB/sec inst
+  16019095552 bytes       108.62 MB/sec avg       111.00 MB/sec inst
+  16134438912 bytes       108.55 MB/sec avg       100.00 MB/sec inst
+  16248733696 bytes       108.56 MB/sec avg       109.00 MB/sec inst
+  16366174208 bytes       108.58 MB/sec avg       112.00 MB/sec inst
+  16483614720 bytes       108.60 MB/sec avg       112.00 MB/sec inst
+  16598958080 bytes       108.61 MB/sec avg       110.00 MB/sec inst
+  16718495744 bytes       108.65 MB/sec avg       114.00 MB/sec inst
+  16835936256 bytes       108.67 MB/sec avg       112.00 MB/sec inst
+  16950231040 bytes       108.67 MB/sec avg       109.00 MB/sec inst
+  17065574400 bytes       108.68 MB/sec avg       110.00 MB/sec inst
+  17176723456 bytes       108.67 MB/sec avg       106.00 MB/sec inst
+  17295212544 bytes       108.69 MB/sec avg       113.00 MB/sec inst
+  17415798784 bytes       108.66 MB/sec avg       104.55 MB/sec inst
+  17533239296 bytes       108.69 MB/sec avg       112.00 MB/sec inst
+  17649631232 bytes       108.70 MB/sec avg       111.00 MB/sec inst
+  17767071744 bytes       108.72 MB/sec avg       112.00 MB/sec inst
+  17885560832 bytes       108.75 MB/sec avg       113.00 MB/sec inst
+  18003001344 bytes       108.77 MB/sec avg       112.00 MB/sec inst
+  18118344704 bytes       108.78 MB/sec avg       110.00 MB/sec inst
+  18236833792 bytes       108.80 MB/sec avg       113.00 MB/sec inst
+  18355322880 bytes       108.83 MB/sec avg       113.00 MB/sec inst
+  18473811968 bytes       108.86 MB/sec avg       113.00 MB/sec inst
+  18592301056 bytes       108.88 MB/sec avg       113.00 MB/sec inst
+  18708692992 bytes       108.83 MB/sec avg       100.91 MB/sec inst
+  18826133504 bytes       108.85 MB/sec avg       112.00 MB/sec inst
+  18944622592 bytes       108.87 MB/sec avg       113.00 MB/sec inst
+  19062063104 bytes       108.89 MB/sec avg       112.00 MB/sec inst
+  19179503616 bytes       108.91 MB/sec avg       112.00 MB/sec inst
+  19295895552 bytes       108.92 MB/sec avg       111.00 MB/sec inst
+  19412287488 bytes       108.93 MB/sec avg       111.00 MB/sec inst
+  19531825152 bytes       108.96 MB/sec avg       114.00 MB/sec inst
+  19646119936 bytes       108.96 MB/sec avg       109.00 MB/sec inst
+  19764609024 bytes       108.99 MB/sec avg       113.00 MB/sec inst
+  19883098112 bytes       108.95 MB/sec avg       102.73 MB/sec inst
+  20000538624 bytes       108.97 MB/sec avg       112.00 MB/sec inst
+  20117979136 bytes       108.98 MB/sec avg       112.00 MB/sec inst
+  20230176768 bytes       108.97 MB/sec avg       107.00 MB/sec inst
+  20349714432 bytes       109.00 MB/sec avg       114.00 MB/sec inst
+  20460863488 bytes       108.98 MB/sec avg       106.00 MB/sec inst
+  20580401152 bytes       109.01 MB/sec avg       114.00 MB/sec inst
+  20694695936 bytes       109.01 MB/sec avg       109.00 MB/sec inst
+  20812136448 bytes       109.03 MB/sec avg       112.00 MB/sec inst
+  20931674112 bytes       109.05 MB/sec avg       114.00 MB/sec inst
+  21047017472 bytes       109.06 MB/sec avg       110.00 MB/sec inst
+  21164457984 bytes       109.08 MB/sec avg       112.00 MB/sec inst
+  21281898496 bytes       109.09 MB/sec avg       112.00 MB/sec inst
+  21397241856 bytes       109.10 MB/sec avg       110.00 MB/sec inst
+  21512585216 bytes       109.10 MB/sec avg       110.00 MB/sec inst
+  21632122880 bytes       109.07 MB/sec avg       103.64 MB/sec inst
+  21746417664 bytes       109.07 MB/sec avg       109.00 MB/sec inst
+  21864906752 bytes       109.09 MB/sec avg       113.00 MB/sec inst
+  21981298688 bytes       109.10 MB/sec avg       111.00 MB/sec inst
+  22097690624 bytes       109.11 MB/sec avg       111.00 MB/sec inst
+  22214082560 bytes       109.12 MB/sec avg       111.00 MB/sec inst
+  22333620224 bytes       109.14 MB/sec avg       114.00 MB/sec inst
+  22450012160 bytes       109.15 MB/sec avg       111.00 MB/sec inst
+
+
+
+end time = Fri Nov 22 08:19:33 2019
+total time = 215
+
+start time = Fri Nov 22 20:37:22 2019
+Source: file:///fsx/files/
+Dest:   ftp://172.31.21.192:50505/home/ubuntu/
+  large_file_0  ->  large_file
+
+      1048576 bytes         0.37 MB/sec avg         0.37 MB/sec inst
+     97517568 bytes        25.22 MB/sec avg        92.00 MB/sec inst
+    203423744 bytes        41.39 MB/sec avg       101.00 MB/sec inst
+    319815680 bytes        53.62 MB/sec avg       111.00 MB/sec inst
+    434110464 bytes        61.90 MB/sec avg       109.00 MB/sec inst
+    549453824 bytes        68.16 MB/sec avg       110.00 MB/sec inst
+    664797184 bytes        72.98 MB/sec avg       110.00 MB/sec inst
+    779091968 bytes        76.70 MB/sec avg       109.00 MB/sec inst
+    897581056 bytes        80.09 MB/sec avg       113.00 MB/sec inst
+   1015021568 bytes        82.12 MB/sec avg       101.82 MB/sec inst
+   1132462080 bytes        84.46 MB/sec avg       112.00 MB/sec inst
+   1247805440 bytes        86.31 MB/sec avg       110.00 MB/sec inst
+   1365245952 bytes        88.05 MB/sec avg       112.00 MB/sec inst
+   1482686464 bytes        89.56 MB/sec avg       112.00 MB/sec inst
+   1598029824 bytes        90.78 MB/sec avg       110.00 MB/sec inst
+   1714421760 bytes        91.92 MB/sec avg       111.00 MB/sec inst
+   1830813696 bytes        92.93 MB/sec avg       111.00 MB/sec inst
+   1947205632 bytes        93.85 MB/sec avg       111.00 MB/sec inst
+   2062548992 bytes        94.62 MB/sec avg       110.00 MB/sec inst
+   2178940928 bytes        95.37 MB/sec avg       111.00 MB/sec inst
+   2294284288 bytes        96.02 MB/sec avg       110.00 MB/sec inst
+   2411724800 bytes        96.69 MB/sec avg       112.00 MB/sec inst
+   2528116736 bytes        97.27 MB/sec avg       111.00 MB/sec inst
+   2644508672 bytes        97.80 MB/sec avg       111.00 MB/sec inst
+   2759852032 bytes        98.25 MB/sec avg       110.00 MB/sec inst
+   2877292544 bytes        98.39 MB/sec avg       101.82 MB/sec inst
+   2995781632 bytes        98.90 MB/sec avg       113.00 MB/sec inst
+   3112173568 bytes        99.31 MB/sec avg       111.00 MB/sec inst
+   3228565504 bytes        99.68 MB/sec avg       111.00 MB/sec inst
+   3343908864 bytes       100.01 MB/sec avg       110.00 MB/sec inst
+   3459252224 bytes       100.31 MB/sec avg       110.00 MB/sec inst
+   3569352704 bytes       100.45 MB/sec avg       105.00 MB/sec inst
+   3685744640 bytes       100.75 MB/sec avg       111.00 MB/sec inst
+   3804233728 bytes       101.09 MB/sec avg       113.00 MB/sec inst
+   3924819968 bytes       101.47 MB/sec avg       115.00 MB/sec inst
+   4041211904 bytes       101.72 MB/sec avg       111.00 MB/sec inst
+   4156555264 bytes       101.93 MB/sec avg       110.00 MB/sec inst
+   4275044352 bytes       102.21 MB/sec avg       113.00 MB/sec inst
+   4392484864 bytes       102.45 MB/sec avg       112.00 MB/sec inst
+   4506779648 bytes       102.36 MB/sec avg        99.09 MB/sec inst
+   4622123008 bytes       102.54 MB/sec avg       110.00 MB/sec inst
+   4739563520 bytes       102.76 MB/sec avg       112.00 MB/sec inst
+   4854906880 bytes       102.92 MB/sec avg       110.00 MB/sec inst
+   4973395968 bytes       103.14 MB/sec avg       113.00 MB/sec inst
+   5089787904 bytes       103.30 MB/sec avg       111.00 MB/sec inst
+   5206179840 bytes       103.46 MB/sec avg       111.00 MB/sec inst
+   5322571776 bytes       103.62 MB/sec avg       111.00 MB/sec inst
+   5440012288 bytes       103.79 MB/sec avg       112.00 MB/sec inst
+   5556404224 bytes       103.93 MB/sec avg       111.00 MB/sec inst
+   5674893312 bytes       104.10 MB/sec avg       113.00 MB/sec inst
+   5790236672 bytes       104.21 MB/sec avg       110.00 MB/sec inst
+   5907677184 bytes       104.36 MB/sec avg       112.00 MB/sec inst
+   6025117696 bytes       104.50 MB/sec avg       112.00 MB/sec inst
+   6140461056 bytes       104.59 MB/sec avg       110.00 MB/sec inst
+   6256852992 bytes       104.71 MB/sec avg       111.00 MB/sec inst
+   6375342080 bytes       104.67 MB/sec avg       102.73 MB/sec inst
+   6490685440 bytes       104.76 MB/sec avg       110.00 MB/sec inst
+   6607077376 bytes       104.86 MB/sec avg       111.00 MB/sec inst
+   6724517888 bytes       104.98 MB/sec avg       112.00 MB/sec inst
+   6840909824 bytes       105.08 MB/sec avg       111.00 MB/sec inst
+   6959398912 bytes       105.20 MB/sec avg       113.00 MB/sec inst
+   7073693696 bytes       105.26 MB/sec avg       109.00 MB/sec inst
+   7190085632 bytes       105.35 MB/sec avg       111.00 MB/sec inst
+   7307526144 bytes       105.45 MB/sec avg       112.00 MB/sec inst
+   7423918080 bytes       105.53 MB/sec avg       111.00 MB/sec inst
+   7541358592 bytes       105.63 MB/sec avg       112.00 MB/sec inst
+   7660896256 bytes       105.75 MB/sec avg       114.00 MB/sec inst
+   7777288192 bytes       105.82 MB/sec avg       111.00 MB/sec inst
+   7893680128 bytes       105.90 MB/sec avg       111.00 MB/sec inst
+   8016363520 bytes       105.90 MB/sec avg       106.36 MB/sec inst
+   8135901184 bytes       106.02 MB/sec avg       114.00 MB/sec inst
+   8251244544 bytes       106.07 MB/sec avg       110.00 MB/sec inst
+   8368685056 bytes       106.15 MB/sec avg       112.00 MB/sec inst
+   8486125568 bytes       106.22 MB/sec avg       112.00 MB/sec inst
+   8602517504 bytes       106.29 MB/sec avg       111.00 MB/sec inst
+   8716812288 bytes       106.32 MB/sec avg       109.00 MB/sec inst
+   8834252800 bytes       106.39 MB/sec avg       112.00 MB/sec inst
+   8949596160 bytes       106.44 MB/sec avg       110.00 MB/sec inst
+   9068085248 bytes       106.52 MB/sec avg       113.00 MB/sec inst
+   9184477184 bytes       106.57 MB/sec avg       111.00 MB/sec inst
+   9301917696 bytes       106.64 MB/sec avg       112.00 MB/sec inst
+   9423552512 bytes       106.75 MB/sec avg       116.00 MB/sec inst
+   9539944448 bytes       106.80 MB/sec avg       111.00 MB/sec inst
+   9655287808 bytes       106.84 MB/sec avg       110.00 MB/sec inst
+   9772728320 bytes       106.90 MB/sec avg       112.00 MB/sec inst
+   9889120256 bytes       106.94 MB/sec avg       111.00 MB/sec inst
+  10005512192 bytes       106.87 MB/sec avg       100.91 MB/sec inst
+  10120855552 bytes       106.90 MB/sec avg       110.00 MB/sec inst
+  10238296064 bytes       106.96 MB/sec avg       112.00 MB/sec inst
+  10353639424 bytes       106.99 MB/sec avg       110.00 MB/sec inst
+  10471079936 bytes       107.05 MB/sec avg       112.00 MB/sec inst
+  10586423296 bytes       107.08 MB/sec avg       110.00 MB/sec inst
+  10701766656 bytes       107.11 MB/sec avg       110.00 MB/sec inst
+  10821304320 bytes       107.18 MB/sec avg       114.00 MB/sec inst
+  10937696256 bytes       107.22 MB/sec avg       111.00 MB/sec inst
+  11055136768 bytes       107.27 MB/sec avg       112.00 MB/sec inst
+  11172577280 bytes       107.31 MB/sec avg       112.00 MB/sec inst
+  11288969216 bytes       107.35 MB/sec avg       111.00 MB/sec inst
+  11408506880 bytes       107.42 MB/sec avg       114.00 MB/sec inst
+  11523850240 bytes       107.44 MB/sec avg       110.00 MB/sec inst
+  11641290752 bytes       107.38 MB/sec avg       101.82 MB/sec inst
+  11757682688 bytes       107.42 MB/sec avg       111.00 MB/sec inst
+  11874074624 bytes       107.45 MB/sec avg       111.00 MB/sec inst
+  11995709440 bytes       107.53 MB/sec avg       116.00 MB/sec inst
+  12114198528 bytes       107.58 MB/sec avg       113.00 MB/sec inst
+  12224299008 bytes       107.56 MB/sec avg       105.00 MB/sec inst
+  12341739520 bytes       107.60 MB/sec avg       112.00 MB/sec inst
+  12462325760 bytes       107.67 MB/sec avg       115.00 MB/sec inst
+  12581863424 bytes       107.72 MB/sec avg       114.00 MB/sec inst
+  12700352512 bytes       107.77 MB/sec avg       113.00 MB/sec inst
+  12816744448 bytes       107.80 MB/sec avg       111.00 MB/sec inst
+  12933136384 bytes       107.83 MB/sec avg       111.00 MB/sec inst
+  13052674048 bytes       107.88 MB/sec avg       114.00 MB/sec inst
+  13171163136 bytes       107.92 MB/sec avg       113.00 MB/sec inst
+  13287555072 bytes       107.95 MB/sec avg       111.00 MB/sec inst
+  13403947008 bytes       107.98 MB/sec avg       111.00 MB/sec inst
+  13520338944 bytes       108.00 MB/sec avg       111.00 MB/sec inst
+  13636730880 bytes       108.03 MB/sec avg       111.00 MB/sec inst
+  13756268544 bytes       108.08 MB/sec avg       114.00 MB/sec inst
+  13873709056 bytes       108.11 MB/sec avg       112.00 MB/sec inst
+  13988003840 bytes       108.11 MB/sec avg       109.00 MB/sec inst
+  14102298624 bytes       108.12 MB/sec avg       109.00 MB/sec inst
+  14218690560 bytes       108.06 MB/sec avg       100.91 MB/sec inst
+  14337179648 bytes       108.10 MB/sec avg       113.00 MB/sec inst
+  14452523008 bytes       108.11 MB/sec avg       110.00 MB/sec inst
+  14571012096 bytes       108.15 MB/sec avg       113.00 MB/sec inst
+  14688452608 bytes       108.18 MB/sec avg       112.00 MB/sec inst
+  14803795968 bytes       108.19 MB/sec avg       110.00 MB/sec inst
+  14926479360 bytes       108.26 MB/sec avg       117.00 MB/sec inst
+  15042871296 bytes       108.28 MB/sec avg       111.00 MB/sec inst
+  15158214656 bytes       108.29 MB/sec avg       110.00 MB/sec inst
+  15274606592 bytes       108.31 MB/sec avg       111.00 MB/sec inst
+  15390998528 bytes       108.33 MB/sec avg       111.00 MB/sec inst
+  15508439040 bytes       108.36 MB/sec avg       112.00 MB/sec inst
+  15625879552 bytes       108.39 MB/sec avg       112.00 MB/sec inst
+  15742271488 bytes       108.41 MB/sec avg       111.00 MB/sec inst
+  15857614848 bytes       108.42 MB/sec avg       110.00 MB/sec inst
+  15976103936 bytes       108.37 MB/sec avg       102.73 MB/sec inst
+  16097738752 bytes       108.43 MB/sec avg       116.00 MB/sec inst
+  16210984960 bytes       108.42 MB/sec avg       108.00 MB/sec inst
+  16327376896 bytes       108.44 MB/sec avg       111.00 MB/sec inst
+  16444817408 bytes       108.47 MB/sec avg       112.00 MB/sec inst
+  16565403648 bytes       108.51 MB/sec avg       115.00 MB/sec inst
+  16682844160 bytes       108.54 MB/sec avg       112.00 MB/sec inst
+  16799236096 bytes       108.55 MB/sec avg       111.00 MB/sec inst
+  16914579456 bytes       108.56 MB/sec avg       110.00 MB/sec inst
+  17035165696 bytes       108.61 MB/sec avg       115.00 MB/sec inst
+  17152606208 bytes       108.63 MB/sec avg       112.00 MB/sec inst
+  17271095296 bytes       108.66 MB/sec avg       113.00 MB/sec inst
+  17391681536 bytes       108.70 MB/sec avg       115.00 MB/sec inst
+  17510170624 bytes       108.73 MB/sec avg       113.00 MB/sec inst
+  17624465408 bytes       108.73 MB/sec avg       109.00 MB/sec inst
+  17741905920 bytes       108.75 MB/sec avg       112.00 MB/sec inst
+  17858297856 bytes       108.76 MB/sec avg       111.00 MB/sec inst
+  17974689792 bytes       108.71 MB/sec avg       100.91 MB/sec inst
+  18090033152 bytes       108.72 MB/sec avg       110.00 MB/sec inst
+  18207473664 bytes       108.74 MB/sec avg       112.00 MB/sec inst
+  18328059904 bytes       108.78 MB/sec avg       115.00 MB/sec inst
+  18446548992 bytes       108.80 MB/sec avg       113.00 MB/sec inst
+  18567135232 bytes       108.84 MB/sec avg       115.00 MB/sec inst
+  18684575744 bytes       108.86 MB/sec avg       112.00 MB/sec inst
+  18799919104 bytes       108.87 MB/sec avg       110.00 MB/sec inst
+  18920505344 bytes       108.90 MB/sec avg       115.00 MB/sec inst
+  19037945856 bytes       108.92 MB/sec avg       112.00 MB/sec inst
+  19152240640 bytes       108.92 MB/sec avg       109.00 MB/sec inst
+  19263389696 bytes       108.91 MB/sec avg       106.00 MB/sec inst
+  19386073088 bytes       108.95 MB/sec avg       117.00 MB/sec inst
+  19502465024 bytes       108.97 MB/sec avg       111.00 MB/sec inst
+  19619905536 bytes       108.92 MB/sec avg       101.82 MB/sec inst
+  19737346048 bytes       108.94 MB/sec avg       112.00 MB/sec inst
+  19854786560 bytes       108.95 MB/sec avg       112.00 MB/sec inst
+  19972227072 bytes       108.97 MB/sec avg       112.00 MB/sec inst
+  20089667584 bytes       108.99 MB/sec avg       112.00 MB/sec inst
+  20207108096 bytes       109.01 MB/sec avg       112.00 MB/sec inst
+  20323500032 bytes       109.02 MB/sec avg       111.00 MB/sec inst
+  20439891968 bytes       109.03 MB/sec avg       111.00 MB/sec inst
+  20553138176 bytes       109.02 MB/sec avg       108.00 MB/sec inst
+  20669530112 bytes       109.03 MB/sec avg       111.00 MB/sec inst
+  20784873472 bytes       109.04 MB/sec avg       110.00 MB/sec inst
+  20902313984 bytes       109.06 MB/sec avg       112.00 MB/sec inst
+  21019754496 bytes       109.07 MB/sec avg       112.00 MB/sec inst
+  21135097856 bytes       109.08 MB/sec avg       110.00 MB/sec inst
+  21250441216 bytes       109.08 MB/sec avg       110.00 MB/sec inst
+  21368930304 bytes       109.10 MB/sec avg       113.00 MB/sec inst
+  21486370816 bytes       109.12 MB/sec avg       112.00 MB/sec inst
+  21604859904 bytes       109.08 MB/sec avg       102.73 MB/sec inst
+  21723348992 bytes       109.10 MB/sec avg       113.00 MB/sec inst
+  21842886656 bytes       109.13 MB/sec avg       114.00 MB/sec inst
+  21959278592 bytes       109.14 MB/sec avg       111.00 MB/sec inst
+  22074621952 bytes       109.14 MB/sec avg       110.00 MB/sec inst
+  22191013888 bytes       109.15 MB/sec avg       111.00 MB/sec inst
+  22305308672 bytes       109.15 MB/sec avg       109.00 MB/sec inst
+  22422749184 bytes       109.16 MB/sec avg       112.00 MB/sec inst
+  22540189696 bytes       109.18 MB/sec avg       112.00 MB/sec inst
+
+
+
+end time = Fri Nov 22 20:41:03 2019
+total time = 220
+
+start time = Fri Nov 22 20:41:03 2019
+Source: file:///fsx/files/
+Dest:   ftp://172.31.21.192:50505/home/ubuntu/
+  large_file_1  ->  large_file
+
+      1048576 bytes         0.37 MB/sec avg         0.37 MB/sec inst
+     89128960 bytes        22.50 MB/sec avg        76.36 MB/sec inst
+    198180864 bytes        39.56 MB/sec avg       104.00 MB/sec inst
+    325058560 bytes        53.66 MB/sec avg       121.00 MB/sec inst
+    451936256 bytes        63.59 MB/sec avg       121.00 MB/sec inst
+    578813952 bytes        70.97 MB/sec avg       121.00 MB/sec inst
+    705691648 bytes        76.67 MB/sec avg       121.00 MB/sec inst
+    832569344 bytes        81.21 MB/sec avg       121.00 MB/sec inst
+    958398464 bytes        84.81 MB/sec avg       120.00 MB/sec inst
+   1085276160 bytes        87.88 MB/sec avg       121.00 MB/sec inst
+   1210056704 bytes        90.32 MB/sec avg       119.00 MB/sec inst
+   1336934400 bytes        92.54 MB/sec avg       121.00 MB/sec inst
+   1463812096 bytes        94.47 MB/sec avg       121.00 MB/sec inst
+   1590689792 bytes        96.15 MB/sec avg       121.00 MB/sec inst
+   1717567488 bytes        97.63 MB/sec avg       121.00 MB/sec inst
+   1845493760 bytes        99.00 MB/sec avg       122.00 MB/sec inst
+   1973420032 bytes       100.23 MB/sec avg       122.00 MB/sec inst
+   2100297728 bytes       101.28 MB/sec avg       121.00 MB/sec inst
+   2227175424 bytes       102.23 MB/sec avg       121.00 MB/sec inst
+   2355101696 bytes       103.13 MB/sec avg       122.00 MB/sec inst
+   2481979392 bytes       103.92 MB/sec avg       121.00 MB/sec inst
+   2608857088 bytes       104.64 MB/sec avg       121.00 MB/sec inst
+   2735734784 bytes       105.30 MB/sec avg       121.00 MB/sec inst
+   2862612480 bytes       105.50 MB/sec avg       110.00 MB/sec inst
+   2990538752 bytes       106.11 MB/sec avg       122.00 MB/sec inst
+   3117416448 bytes       106.65 MB/sec avg       121.00 MB/sec inst
+   3244294144 bytes       107.14 MB/sec avg       121.00 MB/sec inst
+   3370123264 bytes       107.57 MB/sec avg       120.00 MB/sec inst
+   3497000960 bytes       108.01 MB/sec avg       121.00 MB/sec inst
+   3624927232 bytes       108.45 MB/sec avg       122.00 MB/sec inst
+   3751804928 bytes       108.83 MB/sec avg       121.00 MB/sec inst
+   3879731200 bytes       109.22 MB/sec avg       122.00 MB/sec inst
+   4007657472 bytes       109.58 MB/sec avg       122.00 MB/sec inst
+   4135583744 bytes       109.93 MB/sec avg       122.00 MB/sec inst
+   4261412864 bytes       110.20 MB/sec avg       120.00 MB/sec inst
+   4388290560 bytes       110.49 MB/sec avg       121.00 MB/sec inst
+   4515168256 bytes       110.76 MB/sec avg       121.00 MB/sec inst
+   4643094528 bytes       110.76 MB/sec avg       110.91 MB/sec inst
+   4769972224 bytes       111.01 MB/sec avg       121.00 MB/sec inst
+   4897898496 bytes       111.27 MB/sec avg       122.00 MB/sec inst
+   5024776192 bytes       111.50 MB/sec avg       121.00 MB/sec inst
+   5151653888 bytes       111.72 MB/sec avg       121.00 MB/sec inst
+   5277483008 bytes       111.90 MB/sec avg       120.00 MB/sec inst
+   5404360704 bytes       112.10 MB/sec avg       121.00 MB/sec inst
+   5531238400 bytes       112.29 MB/sec avg       121.00 MB/sec inst
+   5658116096 bytes       112.47 MB/sec avg       121.00 MB/sec inst
+   5784993792 bytes       112.64 MB/sec avg       121.00 MB/sec inst
+   5911871488 bytes       112.81 MB/sec avg       121.00 MB/sec inst
+   6038749184 bytes       112.97 MB/sec avg       121.00 MB/sec inst
+   6166675456 bytes       113.15 MB/sec avg       122.00 MB/sec inst
+   6293553152 bytes       113.29 MB/sec avg       121.00 MB/sec inst
+   6416236544 bytes       113.36 MB/sec avg       117.00 MB/sec inst
+   6544162816 bytes       113.31 MB/sec avg       110.91 MB/sec inst
+   6672089088 bytes       113.47 MB/sec avg       122.00 MB/sec inst
+   6800015360 bytes       113.62 MB/sec avg       122.00 MB/sec inst
+   6927941632 bytes       113.76 MB/sec avg       122.00 MB/sec inst
+   7054819328 bytes       113.88 MB/sec avg       121.00 MB/sec inst
+   7181697024 bytes       114.00 MB/sec avg       121.00 MB/sec inst
+   7308574720 bytes       114.12 MB/sec avg       121.00 MB/sec inst
+   7435452416 bytes       114.23 MB/sec avg       121.00 MB/sec inst
+   7562330112 bytes       114.34 MB/sec avg       121.00 MB/sec inst
+   7689207808 bytes       114.44 MB/sec avg       121.00 MB/sec inst
+   7815036928 bytes       114.53 MB/sec avg       120.00 MB/sec inst
+   7941914624 bytes       114.62 MB/sec avg       121.00 MB/sec inst
+   8068792320 bytes       114.72 MB/sec avg       121.00 MB/sec inst
+   8195670016 bytes       114.81 MB/sec avg       121.00 MB/sec inst
+   8323596288 bytes       114.75 MB/sec avg       110.91 MB/sec inst
+   8450473984 bytes       114.84 MB/sec avg       121.00 MB/sec inst
+   8576303104 bytes       114.91 MB/sec avg       120.00 MB/sec inst
+   8704229376 bytes       115.01 MB/sec avg       122.00 MB/sec inst
+   8831107072 bytes       115.09 MB/sec avg       121.00 MB/sec inst
+   8957984768 bytes       115.17 MB/sec avg       121.00 MB/sec inst
+   9084862464 bytes       115.25 MB/sec avg       121.00 MB/sec inst
+   9212788736 bytes       115.34 MB/sec avg       122.00 MB/sec inst
+   9339666432 bytes       115.41 MB/sec avg       121.00 MB/sec inst
+   9466544128 bytes       115.48 MB/sec avg       121.00 MB/sec inst
+   9593421824 bytes       115.55 MB/sec avg       121.00 MB/sec inst
+   9720299520 bytes       115.62 MB/sec avg       121.00 MB/sec inst
+   9847177216 bytes       115.68 MB/sec avg       121.00 MB/sec inst
+   9974054912 bytes       115.61 MB/sec avg       110.00 MB/sec inst
+  10100932608 bytes       115.67 MB/sec avg       121.00 MB/sec inst
+  10228858880 bytes       115.75 MB/sec avg       122.00 MB/sec inst
+  10356785152 bytes       115.82 MB/sec avg       122.00 MB/sec inst
+  10483662848 bytes       115.88 MB/sec avg       121.00 MB/sec inst
+  10610540544 bytes       115.94 MB/sec avg       121.00 MB/sec inst
+  10737418240 bytes       116.00 MB/sec avg       121.00 MB/sec inst
+  10864295936 bytes       116.05 MB/sec avg       121.00 MB/sec inst
+  10992222208 bytes       116.12 MB/sec avg       122.00 MB/sec inst
+  11119099904 bytes       116.17 MB/sec avg       121.00 MB/sec inst
+  11245977600 bytes       116.23 MB/sec avg       121.00 MB/sec inst
+  11373903872 bytes       116.16 MB/sec avg       110.91 MB/sec inst
+  11500781568 bytes       116.21 MB/sec avg       121.00 MB/sec inst
+  11626610688 bytes       116.25 MB/sec avg       120.00 MB/sec inst
+  11753488384 bytes       116.30 MB/sec avg       121.00 MB/sec inst
+  11880366080 bytes       116.35 MB/sec avg       121.00 MB/sec inst
+  12006195200 bytes       116.39 MB/sec avg       120.00 MB/sec inst
+  12133072896 bytes       116.43 MB/sec avg       121.00 MB/sec inst
+  12259950592 bytes       116.48 MB/sec avg       121.00 MB/sec inst
+  12386828288 bytes       116.52 MB/sec avg       121.00 MB/sec inst
+  12513705984 bytes       116.57 MB/sec avg       121.00 MB/sec inst
+  12640583680 bytes       116.61 MB/sec avg       121.00 MB/sec inst
+  12767461376 bytes       116.65 MB/sec avg       121.00 MB/sec inst
+  12893290496 bytes       116.69 MB/sec avg       120.00 MB/sec inst
+  13020168192 bytes       116.73 MB/sec avg       121.00 MB/sec inst
+  13145997312 bytes       116.76 MB/sec avg       120.00 MB/sec inst
+  13272875008 bytes       116.80 MB/sec avg       121.00 MB/sec inst
+  13398704128 bytes       116.82 MB/sec avg       120.00 MB/sec inst
+  13525581824 bytes       116.76 MB/sec avg       110.00 MB/sec inst
+  13651410944 bytes       116.79 MB/sec avg       120.00 MB/sec inst
+  13778288640 bytes       116.82 MB/sec avg       121.00 MB/sec inst
+  13904117760 bytes       116.85 MB/sec avg       120.00 MB/sec inst
+  14029946880 bytes       116.88 MB/sec avg       120.00 MB/sec inst
+  14155776000 bytes       116.91 MB/sec avg       120.00 MB/sec inst
+  14281605120 bytes       116.93 MB/sec avg       120.00 MB/sec inst
+  14407434240 bytes       116.96 MB/sec avg       120.00 MB/sec inst
+  14534311936 bytes       116.99 MB/sec avg       121.00 MB/sec inst
+  14660141056 bytes       117.02 MB/sec avg       120.00 MB/sec inst
+  14787018752 bytes       117.05 MB/sec avg       121.00 MB/sec inst
+  14912847872 bytes       117.08 MB/sec avg       120.00 MB/sec inst
+  15039725568 bytes       117.11 MB/sec avg       121.00 MB/sec inst
+  15165554688 bytes       117.13 MB/sec avg       120.00 MB/sec inst
+  15291383808 bytes       117.15 MB/sec avg       120.00 MB/sec inst
+  15417212928 bytes       117.18 MB/sec avg       120.00 MB/sec inst
+  15543042048 bytes       117.20 MB/sec avg       120.00 MB/sec inst
+  15669919744 bytes       117.23 MB/sec avg       121.00 MB/sec inst
+  15795748864 bytes       117.25 MB/sec avg       120.00 MB/sec inst
+  15922626560 bytes       117.28 MB/sec avg       121.00 MB/sec inst
+  16049504256 bytes       117.31 MB/sec avg       121.00 MB/sec inst
+  16176381952 bytes       117.34 MB/sec avg       121.00 MB/sec inst
+  16302211072 bytes       117.36 MB/sec avg       120.00 MB/sec inst
+  16428040192 bytes       117.38 MB/sec avg       120.00 MB/sec inst
+  16553869312 bytes       117.40 MB/sec avg       120.00 MB/sec inst
+  16680747008 bytes       117.34 MB/sec avg       110.00 MB/sec inst
+  16806576128 bytes       117.35 MB/sec avg       120.00 MB/sec inst
+  16931356672 bytes       117.37 MB/sec avg       119.00 MB/sec inst
+  17058234368 bytes       117.39 MB/sec avg       121.00 MB/sec inst
+  17185112064 bytes       117.42 MB/sec avg       121.00 MB/sec inst
+  17310941184 bytes       117.44 MB/sec avg       120.00 MB/sec inst
+  17436770304 bytes       117.46 MB/sec avg       120.00 MB/sec inst
+  17562599424 bytes       117.47 MB/sec avg       120.00 MB/sec inst
+  17684234240 bytes       117.46 MB/sec avg       116.00 MB/sec inst
+  17810063360 bytes       117.48 MB/sec avg       120.00 MB/sec inst
+  17936941056 bytes       117.50 MB/sec avg       121.00 MB/sec inst
+  18062770176 bytes       117.52 MB/sec avg       120.00 MB/sec inst
+  18189647872 bytes       117.55 MB/sec avg       121.00 MB/sec inst
+  18316525568 bytes       117.57 MB/sec avg       121.00 MB/sec inst
+  18443403264 bytes       117.59 MB/sec avg       121.00 MB/sec inst
+  18569232384 bytes       117.53 MB/sec avg       109.09 MB/sec inst
+  18695061504 bytes       117.55 MB/sec avg       120.00 MB/sec inst
+  18820890624 bytes       117.56 MB/sec avg       120.00 MB/sec inst
+  18946719744 bytes       117.58 MB/sec avg       120.00 MB/sec inst
+  19073597440 bytes       117.60 MB/sec avg       121.00 MB/sec inst
+  19199426560 bytes       117.61 MB/sec avg       120.00 MB/sec inst
+  19326304256 bytes       117.64 MB/sec avg       121.00 MB/sec inst
+  19452133376 bytes       117.65 MB/sec avg       120.00 MB/sec inst
+  19576913920 bytes       117.66 MB/sec avg       119.00 MB/sec inst
+  19703791616 bytes       117.68 MB/sec avg       121.00 MB/sec inst
+  19829620736 bytes       117.70 MB/sec avg       120.00 MB/sec inst
+  19956498432 bytes       117.72 MB/sec avg       121.00 MB/sec inst
+  20081278976 bytes       117.72 MB/sec avg       119.00 MB/sec inst
+  20207108096 bytes       117.74 MB/sec avg       120.00 MB/sec inst
+  20333985792 bytes       117.76 MB/sec avg       121.00 MB/sec inst
+  20459814912 bytes       117.77 MB/sec avg       120.00 MB/sec inst
+  20585644032 bytes       117.71 MB/sec avg       109.09 MB/sec inst
+  20711473152 bytes       117.73 MB/sec avg       120.00 MB/sec inst
+  20837302272 bytes       117.74 MB/sec avg       120.00 MB/sec inst
+  20963131392 bytes       117.75 MB/sec avg       120.00 MB/sec inst
+  21090009088 bytes       117.77 MB/sec avg       121.00 MB/sec inst
+  21215838208 bytes       117.79 MB/sec avg       120.00 MB/sec inst
+  21341667328 bytes       117.80 MB/sec avg       120.00 MB/sec inst
+  21464350720 bytes       117.79 MB/sec avg       117.00 MB/sec inst
+  21590179840 bytes       117.81 MB/sec avg       120.00 MB/sec inst
+  21717057536 bytes       117.83 MB/sec avg       121.00 MB/sec inst
+  21841838080 bytes       117.83 MB/sec avg       119.00 MB/sec inst
+  21967667200 bytes       117.84 MB/sec avg       120.00 MB/sec inst
+  22094544896 bytes       117.86 MB/sec avg       121.00 MB/sec inst
+  22220374016 bytes       117.81 MB/sec avg       109.09 MB/sec inst
+  22345154560 bytes       117.81 MB/sec avg       119.00 MB/sec inst
+  22472032256 bytes       117.83 MB/sec avg       121.00 MB/sec inst
+
+
+
+end time = Fri Nov 22 20:44:29 2019
+total time = 205
+
+start time = Fri Nov 22 20:44:29 2019
+Source: file:///fsx/files/
+Dest:   ftp://172.31.21.192:50505/home/ubuntu/
+  large_file_2  ->  large_file
+
+      1048576 bytes         0.37 MB/sec avg         0.37 MB/sec inst
+     96468992 bytes        24.72 MB/sec avg        91.00 MB/sec inst
+    209715200 bytes        42.35 MB/sec avg       108.00 MB/sec inst
+    337641472 bytes        56.27 MB/sec avg       122.00 MB/sec inst
+    464519168 bytes        65.90 MB/sec avg       121.00 MB/sec inst
+    591396864 bytes        73.04 MB/sec avg       121.00 MB/sec inst
+    718274560 bytes        78.54 MB/sec avg       121.00 MB/sec inst
+    845152256 bytes        82.90 MB/sec avg       121.00 MB/sec inst
+    972029952 bytes        86.46 MB/sec avg       121.00 MB/sec inst
+   1098907648 bytes        88.65 MB/sec avg       110.00 MB/sec inst
+   1226833920 bytes        91.25 MB/sec avg       122.00 MB/sec inst
+   1353711616 bytes        93.40 MB/sec avg       121.00 MB/sec inst
+   1480589312 bytes        95.26 MB/sec avg       121.00 MB/sec inst
+   1607467008 bytes        96.89 MB/sec avg       121.00 MB/sec inst
+   1734344704 bytes        98.32 MB/sec avg       121.00 MB/sec inst
+   1861222400 bytes        99.60 MB/sec avg       121.00 MB/sec inst
+   1988100096 bytes       100.73 MB/sec avg       121.00 MB/sec inst
+   2114977792 bytes       101.76 MB/sec avg       121.00 MB/sec inst
+   2242904064 bytes       102.73 MB/sec avg       122.00 MB/sec inst
+   2370830336 bytes       103.61 MB/sec avg       122.00 MB/sec inst
+   2497708032 bytes       104.37 MB/sec avg       121.00 MB/sec inst
+   2625634304 bytes       105.11 MB/sec avg       122.00 MB/sec inst
+   2753560576 bytes       105.79 MB/sec avg       122.00 MB/sec inst
+   2880438272 bytes       106.38 MB/sec avg       121.00 MB/sec inst
+   3007315968 bytes       106.93 MB/sec avg       121.00 MB/sec inst
+   3133145088 bytes       107.40 MB/sec avg       120.00 MB/sec inst
+   3260022784 bytes       107.87 MB/sec avg       121.00 MB/sec inst
+   3386900480 bytes       108.31 MB/sec avg       121.00 MB/sec inst
+   3513778176 bytes       108.37 MB/sec avg       110.00 MB/sec inst
+   3639607296 bytes       108.73 MB/sec avg       120.00 MB/sec inst
+   3761242112 bytes       108.95 MB/sec avg       116.00 MB/sec inst
+   3883925504 bytes       109.19 MB/sec avg       117.00 MB/sec inst
+   4011851776 bytes       109.56 MB/sec avg       122.00 MB/sec inst
+   4137680896 bytes       109.85 MB/sec avg       120.00 MB/sec inst
+   4265607168 bytes       110.18 MB/sec avg       122.00 MB/sec inst
+   4392484864 bytes       110.46 MB/sec avg       121.00 MB/sec inst
+   4519362560 bytes       110.73 MB/sec avg       121.00 MB/sec inst
+   4645191680 bytes       110.97 MB/sec avg       120.00 MB/sec inst
+   4772069376 bytes       111.21 MB/sec avg       121.00 MB/sec inst
+   4898947072 bytes       111.44 MB/sec avg       121.00 MB/sec inst
+   5024776192 bytes       111.64 MB/sec avg       120.00 MB/sec inst
+   5152702464 bytes       111.88 MB/sec avg       122.00 MB/sec inst
+   5279580160 bytes       112.08 MB/sec avg       121.00 MB/sec inst
+   5406457856 bytes       112.28 MB/sec avg       121.00 MB/sec inst
+   5533335552 bytes       112.46 MB/sec avg       121.00 MB/sec inst
+   5659164672 bytes       112.39 MB/sec avg       109.09 MB/sec inst
+   5786042368 bytes       112.56 MB/sec avg       121.00 MB/sec inst
+   5912920064 bytes       112.73 MB/sec avg       121.00 MB/sec inst
+   6040846336 bytes       112.91 MB/sec avg       122.00 MB/sec inst
+   6167724032 bytes       113.07 MB/sec avg       121.00 MB/sec inst
+   6293553152 bytes       113.20 MB/sec avg       120.00 MB/sec inst
+   6419382272 bytes       113.32 MB/sec avg       120.00 MB/sec inst
+   6546259968 bytes       113.46 MB/sec avg       121.00 MB/sec inst
+   6673137664 bytes       113.60 MB/sec avg       121.00 MB/sec inst
+   6800015360 bytes       113.73 MB/sec avg       121.00 MB/sec inst
+   6925844480 bytes       113.84 MB/sec avg       120.00 MB/sec inst
+   7052722176 bytes       113.96 MB/sec avg       121.00 MB/sec inst
+   7179599872 bytes       114.07 MB/sec avg       121.00 MB/sec inst
+   7306477568 bytes       114.19 MB/sec avg       121.00 MB/sec inst
+   7433355264 bytes       114.30 MB/sec avg       121.00 MB/sec inst
+   7559184384 bytes       114.39 MB/sec avg       120.00 MB/sec inst
+   7686062080 bytes       114.49 MB/sec avg       121.00 MB/sec inst
+   7812939776 bytes       114.59 MB/sec avg       121.00 MB/sec inst
+   7938768896 bytes       114.67 MB/sec avg       120.00 MB/sec inst
+   8064598016 bytes       114.75 MB/sec avg       120.00 MB/sec inst
+   8191475712 bytes       114.85 MB/sec avg       121.00 MB/sec inst
+   8317304832 bytes       114.92 MB/sec avg       120.00 MB/sec inst
+   8444182528 bytes       115.01 MB/sec avg       121.00 MB/sec inst
+   8570011648 bytes       114.92 MB/sec avg       109.09 MB/sec inst
+   8695840768 bytes       114.99 MB/sec avg       120.00 MB/sec inst
+   8822718464 bytes       115.07 MB/sec avg       121.00 MB/sec inst
+   8949596160 bytes       115.15 MB/sec avg       121.00 MB/sec inst
+   9076473856 bytes       115.23 MB/sec avg       121.00 MB/sec inst
+   9202302976 bytes       115.29 MB/sec avg       120.00 MB/sec inst
+   9329180672 bytes       115.36 MB/sec avg       121.00 MB/sec inst
+   9457106944 bytes       115.45 MB/sec avg       122.00 MB/sec inst
+   9583984640 bytes       115.52 MB/sec avg       121.00 MB/sec inst
+   9710862336 bytes       115.59 MB/sec avg       121.00 MB/sec inst
+   9836691456 bytes       115.64 MB/sec avg       120.00 MB/sec inst
+   9963569152 bytes       115.71 MB/sec avg       121.00 MB/sec inst
+  10090446848 bytes       115.77 MB/sec avg       121.00 MB/sec inst
+  10217324544 bytes       115.83 MB/sec avg       121.00 MB/sec inst
+  10342105088 bytes       115.73 MB/sec avg       108.18 MB/sec inst
+  10468982784 bytes       115.79 MB/sec avg       121.00 MB/sec inst
+  10594811904 bytes       115.84 MB/sec avg       120.00 MB/sec inst
+  10719592448 bytes       115.88 MB/sec avg       119.00 MB/sec inst
+  10845421568 bytes       115.92 MB/sec avg       120.00 MB/sec inst
+  10972299264 bytes       115.98 MB/sec avg       121.00 MB/sec inst
+  11099176960 bytes       116.04 MB/sec avg       121.00 MB/sec inst
+  11226054656 bytes       116.09 MB/sec avg       121.00 MB/sec inst
+  11351883776 bytes       116.13 MB/sec avg       120.00 MB/sec inst
+  11478761472 bytes       116.18 MB/sec avg       121.00 MB/sec inst
+  11605639168 bytes       116.23 MB/sec avg       121.00 MB/sec inst
+  11732516864 bytes       116.28 MB/sec avg       121.00 MB/sec inst
+  11859394560 bytes       116.33 MB/sec avg       121.00 MB/sec inst
+  11986272256 bytes       116.38 MB/sec avg       121.00 MB/sec inst
+  12113149952 bytes       116.43 MB/sec avg       121.00 MB/sec inst
+  12240027648 bytes       116.47 MB/sec avg       121.00 MB/sec inst
+  12366905344 bytes       116.40 MB/sec avg       110.00 MB/sec inst
+  12493783040 bytes       116.45 MB/sec avg       121.00 MB/sec inst
+  12620660736 bytes       116.49 MB/sec avg       121.00 MB/sec inst
+  12747538432 bytes       116.53 MB/sec avg       121.00 MB/sec inst
+  12874416128 bytes       116.58 MB/sec avg       121.00 MB/sec inst
+  13001293824 bytes       116.62 MB/sec avg       121.00 MB/sec inst
+  13128171520 bytes       116.66 MB/sec avg       121.00 MB/sec inst
+  13255049216 bytes       116.70 MB/sec avg       121.00 MB/sec inst
+  13381926912 bytes       116.74 MB/sec avg       121.00 MB/sec inst
+  13508804608 bytes       116.78 MB/sec avg       121.00 MB/sec inst
+  13635682304 bytes       116.81 MB/sec avg       121.00 MB/sec inst
+  13762560000 bytes       116.85 MB/sec avg       121.00 MB/sec inst
+  13888389120 bytes       116.88 MB/sec avg       120.00 MB/sec inst
+  14014218240 bytes       116.91 MB/sec avg       120.00 MB/sec inst
+  14140047360 bytes       116.93 MB/sec avg       120.00 MB/sec inst
+  14266925056 bytes       116.97 MB/sec avg       121.00 MB/sec inst
+  14392754176 bytes       116.99 MB/sec avg       120.00 MB/sec inst
+  14518583296 bytes       117.02 MB/sec avg       120.00 MB/sec inst
+  14644412416 bytes       117.04 MB/sec avg       120.00 MB/sec inst
+  14770241536 bytes       117.07 MB/sec avg       120.00 MB/sec inst
+  14896070656 bytes       117.09 MB/sec avg       120.00 MB/sec inst
+  15022948352 bytes       117.03 MB/sec avg       110.00 MB/sec inst
+  15148777472 bytes       117.05 MB/sec avg       120.00 MB/sec inst
+  15274606592 bytes       117.08 MB/sec avg       120.00 MB/sec inst
+  15400435712 bytes       117.10 MB/sec avg       120.00 MB/sec inst
+  15526264832 bytes       117.12 MB/sec avg       120.00 MB/sec inst
+  15652093952 bytes       117.15 MB/sec avg       120.00 MB/sec inst
+  15776874496 bytes       117.16 MB/sec avg       119.00 MB/sec inst
+  15902703616 bytes       117.18 MB/sec avg       120.00 MB/sec inst
+  16028532736 bytes       117.20 MB/sec avg       120.00 MB/sec inst
+  16154361856 bytes       117.23 MB/sec avg       120.00 MB/sec inst
+  16280190976 bytes       117.25 MB/sec avg       120.00 MB/sec inst
+  16406020096 bytes       117.27 MB/sec avg       120.00 MB/sec inst
+  16531849216 bytes       117.29 MB/sec avg       120.00 MB/sec inst
+  16658726912 bytes       117.31 MB/sec avg       121.00 MB/sec inst
+  16784556032 bytes       117.33 MB/sec avg       120.00 MB/sec inst
+  16911433728 bytes       117.36 MB/sec avg       121.00 MB/sec inst
+  17037262848 bytes       117.38 MB/sec avg       120.00 MB/sec inst
+  17164140544 bytes       117.41 MB/sec avg       121.00 MB/sec inst
+  17289969664 bytes       117.42 MB/sec avg       120.00 MB/sec inst
+  17415798784 bytes       117.44 MB/sec avg       120.00 MB/sec inst
+  17541627904 bytes       117.46 MB/sec avg       120.00 MB/sec inst
+  17667457024 bytes       117.48 MB/sec avg       120.00 MB/sec inst
+  17793286144 bytes       117.50 MB/sec avg       120.00 MB/sec inst
+  17919115264 bytes       117.51 MB/sec avg       120.00 MB/sec inst
+  18044944384 bytes       117.53 MB/sec avg       120.00 MB/sec inst
+  18169724928 bytes       117.54 MB/sec avg       119.00 MB/sec inst
+  18291359744 bytes       117.53 MB/sec avg       116.00 MB/sec inst
+  18417188864 bytes       117.55 MB/sec avg       120.00 MB/sec inst
+  18543017984 bytes       117.48 MB/sec avg       109.09 MB/sec inst
+  18668847104 bytes       117.50 MB/sec avg       120.00 MB/sec inst
+  18794676224 bytes       117.52 MB/sec avg       120.00 MB/sec inst
+  18920505344 bytes       117.53 MB/sec avg       120.00 MB/sec inst
+  19046334464 bytes       117.55 MB/sec avg       120.00 MB/sec inst
+  19172163584 bytes       117.57 MB/sec avg       120.00 MB/sec inst
+  19297992704 bytes       117.58 MB/sec avg       120.00 MB/sec inst
+  19423821824 bytes       117.60 MB/sec avg       120.00 MB/sec inst
+  19549650944 bytes       117.61 MB/sec avg       120.00 MB/sec inst
+  19675480064 bytes       117.63 MB/sec avg       120.00 MB/sec inst
+  19801309184 bytes       117.64 MB/sec avg       120.00 MB/sec inst
+  19927138304 bytes       117.66 MB/sec avg       120.00 MB/sec inst
+  20052967424 bytes       117.67 MB/sec avg       120.00 MB/sec inst
+  20178796544 bytes       117.68 MB/sec avg       120.00 MB/sec inst
+  20304625664 bytes       117.70 MB/sec avg       120.00 MB/sec inst
+  20430454784 bytes       117.71 MB/sec avg       120.00 MB/sec inst
+  20555235328 bytes       117.72 MB/sec avg       119.00 MB/sec inst
+  20681064448 bytes       117.73 MB/sec avg       120.00 MB/sec inst
+  20806893568 bytes       117.75 MB/sec avg       120.00 MB/sec inst
+  20932722688 bytes       117.76 MB/sec avg       120.00 MB/sec inst
+  21058551808 bytes       117.77 MB/sec avg       120.00 MB/sec inst
+  21184380928 bytes       117.79 MB/sec avg       120.00 MB/sec inst
+  21310210048 bytes       117.80 MB/sec avg       120.00 MB/sec inst
+  21436039168 bytes       117.81 MB/sec avg       120.00 MB/sec inst
+  21561868288 bytes       117.82 MB/sec avg       120.00 MB/sec inst
+  21687697408 bytes       117.84 MB/sec avg       120.00 MB/sec inst
+  21813526528 bytes       117.85 MB/sec avg       120.00 MB/sec inst
+  21939355648 bytes       117.86 MB/sec avg       120.00 MB/sec inst
+  22059941888 bytes       117.78 MB/sec avg       104.55 MB/sec inst
+  22185771008 bytes       117.79 MB/sec avg       120.00 MB/sec inst
+  22311600128 bytes       117.80 MB/sec avg       120.00 MB/sec inst
+  22437429248 bytes       117.82 MB/sec avg       120.00 MB/sec inst
+
+
+
+end time = Fri Nov 22 20:47:55 2019
+total time = 205
+
+start time = Fri Nov 22 20:47:55 2019
+Source: file:///fsx/files/
+Dest:   ftp://172.31.21.192:50505/home/ubuntu/
+  large_file_3  ->  large_file
+
+      1048576 bytes         0.37 MB/sec avg         0.37 MB/sec inst
+     99614720 bytes        25.41 MB/sec avg        94.00 MB/sec inst
+    213909504 bytes        43.04 MB/sec avg       109.00 MB/sec inst
+    341835776 bytes        56.80 MB/sec avg       122.00 MB/sec inst
+    468713472 bytes        66.33 MB/sec avg       121.00 MB/sec inst
+    594542592 bytes        73.26 MB/sec avg       120.00 MB/sec inst
+    722468864 bytes        78.84 MB/sec avg       122.00 MB/sec inst
+    849346560 bytes        83.17 MB/sec avg       121.00 MB/sec inst
+    976224256 bytes        86.69 MB/sec avg       121.00 MB/sec inst
+   1103101952 bytes        89.61 MB/sec avg       121.00 MB/sec inst
+   1229979648 bytes        92.08 MB/sec avg       121.00 MB/sec inst
+   1356857344 bytes        94.18 MB/sec avg       121.00 MB/sec inst
+   1482686464 bytes        95.93 MB/sec avg       120.00 MB/sec inst
+   1609564160 bytes        96.91 MB/sec avg       110.00 MB/sec inst
+   1736441856 bytes        98.34 MB/sec avg       121.00 MB/sec inst
+   1863319552 bytes        99.61 MB/sec avg       121.00 MB/sec inst
+   1990197248 bytes       100.75 MB/sec avg       121.00 MB/sec inst
+   2117074944 bytes       101.77 MB/sec avg       121.00 MB/sec inst
+   2245001216 bytes       102.74 MB/sec avg       122.00 MB/sec inst
+   2371878912 bytes       103.57 MB/sec avg       121.00 MB/sec inst
+   2498756608 bytes       104.34 MB/sec avg       121.00 MB/sec inst
+   2625634304 bytes       105.04 MB/sec avg       121.00 MB/sec inst
+   2752512000 bytes       105.68 MB/sec avg       121.00 MB/sec inst
+   2880438272 bytes       106.31 MB/sec avg       122.00 MB/sec inst
+   3007315968 bytes       106.86 MB/sec avg       121.00 MB/sec inst
+   3135242240 bytes       107.40 MB/sec avg       122.00 MB/sec inst
+   3262119936 bytes       107.87 MB/sec avg       121.00 MB/sec inst
+   3388997632 bytes       108.31 MB/sec avg       121.00 MB/sec inst
+   3516923904 bytes       108.41 MB/sec avg       110.91 MB/sec inst
+   3644850176 bytes       108.83 MB/sec avg       122.00 MB/sec inst
+   3769630720 bytes       109.14 MB/sec avg       119.00 MB/sec inst
+   3897556992 bytes       109.52 MB/sec avg       122.00 MB/sec inst
+   4025483264 bytes       109.88 MB/sec avg       122.00 MB/sec inst
+   4152360960 bytes       110.19 MB/sec avg       121.00 MB/sec inst
+   4279238656 bytes       110.48 MB/sec avg       121.00 MB/sec inst
+   4407164928 bytes       110.78 MB/sec avg       122.00 MB/sec inst
+   4534042624 bytes       111.04 MB/sec avg       121.00 MB/sec inst
+   4661968896 bytes       111.32 MB/sec avg       122.00 MB/sec inst
+   4788846592 bytes       111.56 MB/sec avg       121.00 MB/sec inst
+   4915724288 bytes       111.78 MB/sec avg       121.00 MB/sec inst
+   5043650560 bytes       111.76 MB/sec avg       110.91 MB/sec inst
+   5170528256 bytes       111.97 MB/sec avg       121.00 MB/sec inst
+   5297405952 bytes       112.17 MB/sec avg       121.00 MB/sec inst
+   5425332224 bytes       112.38 MB/sec avg       122.00 MB/sec inst
+   5553258496 bytes       112.59 MB/sec avg       122.00 MB/sec inst
+   5681184768 bytes       112.78 MB/sec avg       122.00 MB/sec inst
+   5808062464 bytes       112.95 MB/sec avg       121.00 MB/sec inst
+   5935988736 bytes       113.13 MB/sec avg       122.00 MB/sec inst
+   6062866432 bytes       113.29 MB/sec avg       121.00 MB/sec inst
+   6189744128 bytes       113.43 MB/sec avg       121.00 MB/sec inst
+   6317670400 bytes       113.38 MB/sec avg       110.91 MB/sec inst
+   6444548096 bytes       113.52 MB/sec avg       121.00 MB/sec inst
+   6572474368 bytes       113.68 MB/sec avg       122.00 MB/sec inst
+   6700400640 bytes       113.82 MB/sec avg       122.00 MB/sec inst
+   6826229760 bytes       113.93 MB/sec avg       120.00 MB/sec inst
+   6953107456 bytes       114.05 MB/sec avg       121.00 MB/sec inst
+   7079985152 bytes       114.17 MB/sec avg       121.00 MB/sec inst
+   7207911424 bytes       114.30 MB/sec avg       122.00 MB/sec inst
+   7334789120 bytes       114.41 MB/sec avg       121.00 MB/sec inst
+   7462715392 bytes       114.53 MB/sec avg       122.00 MB/sec inst
+   7585398784 bytes       114.57 MB/sec avg       117.00 MB/sec inst
+   7712276480 bytes       114.67 MB/sec avg       121.00 MB/sec inst
+   7840202752 bytes       114.61 MB/sec avg       110.91 MB/sec inst
+   7968129024 bytes       114.72 MB/sec avg       122.00 MB/sec inst
+   8095006720 bytes       114.81 MB/sec avg       121.00 MB/sec inst
+   8221884416 bytes       114.90 MB/sec avg       121.00 MB/sec inst
+   8348762112 bytes       114.99 MB/sec avg       121.00 MB/sec inst
+   8475639808 bytes       115.08 MB/sec avg       121.00 MB/sec inst
+   8601468928 bytes       115.15 MB/sec avg       120.00 MB/sec inst
+   8729395200 bytes       115.24 MB/sec avg       122.00 MB/sec inst
+   8856272896 bytes       115.32 MB/sec avg       121.00 MB/sec inst
+   8983150592 bytes       115.40 MB/sec avg       121.00 MB/sec inst
+   9111076864 bytes       115.48 MB/sec avg       122.00 MB/sec inst
+   9237954560 bytes       115.56 MB/sec avg       121.00 MB/sec inst
+   9365880832 bytes       115.49 MB/sec avg       110.91 MB/sec inst
+   9492758528 bytes       115.56 MB/sec avg       121.00 MB/sec inst
+   9619636224 bytes       115.63 MB/sec avg       121.00 MB/sec inst
+   9747562496 bytes       115.71 MB/sec avg       122.00 MB/sec inst
+   9874440192 bytes       115.77 MB/sec avg       121.00 MB/sec inst
+  10001317888 bytes       115.84 MB/sec avg       121.00 MB/sec inst
+  10128195584 bytes       115.90 MB/sec avg       121.00 MB/sec inst
+  10255073280 bytes       115.96 MB/sec avg       121.00 MB/sec inst
+  10381950976 bytes       116.02 MB/sec avg       121.00 MB/sec inst
+  10508828672 bytes       116.08 MB/sec avg       121.00 MB/sec inst
+  10634657792 bytes       116.12 MB/sec avg       120.00 MB/sec inst
+  10761535488 bytes       116.18 MB/sec avg       121.00 MB/sec inst
+  10888413184 bytes       116.23 MB/sec avg       121.00 MB/sec inst
+  11015290880 bytes       116.16 MB/sec avg       110.00 MB/sec inst
+  11143217152 bytes       116.22 MB/sec avg       122.00 MB/sec inst
+  11271143424 bytes       116.28 MB/sec avg       122.00 MB/sec inst
+  11393826816 bytes       116.29 MB/sec avg       117.00 MB/sec inst
+  11520704512 bytes       116.34 MB/sec avg       121.00 MB/sec inst
+  11647582208 bytes       116.39 MB/sec avg       121.00 MB/sec inst
+  11775508480 bytes       116.45 MB/sec avg       122.00 MB/sec inst
+  11902386176 bytes       116.49 MB/sec avg       121.00 MB/sec inst
+  12030312448 bytes       116.55 MB/sec avg       122.00 MB/sec inst
+  12157190144 bytes       116.48 MB/sec avg       110.00 MB/sec inst
+  12284067840 bytes       116.52 MB/sec avg       121.00 MB/sec inst
+  12411994112 bytes       116.58 MB/sec avg       122.00 MB/sec inst
+  12538871808 bytes       116.62 MB/sec avg       121.00 MB/sec inst
+  12665749504 bytes       116.66 MB/sec avg       121.00 MB/sec inst
+  12792627200 bytes       116.70 MB/sec avg       121.00 MB/sec inst
+  12918456320 bytes       116.73 MB/sec avg       120.00 MB/sec inst
+  13046382592 bytes       116.78 MB/sec avg       122.00 MB/sec inst
+  13173260288 bytes       116.82 MB/sec avg       121.00 MB/sec inst
+  13300137984 bytes       116.86 MB/sec avg       121.00 MB/sec inst
+  13425967104 bytes       116.89 MB/sec avg       120.00 MB/sec inst
+  13551796224 bytes       116.92 MB/sec avg       120.00 MB/sec inst
+  13677625344 bytes       116.95 MB/sec avg       120.00 MB/sec inst
+  13803454464 bytes       116.97 MB/sec avg       120.00 MB/sec inst
+  13930332160 bytes       117.01 MB/sec avg       121.00 MB/sec inst
+  14056161280 bytes       117.03 MB/sec avg       120.00 MB/sec inst
+  14181990400 bytes       117.06 MB/sec avg       120.00 MB/sec inst
+  14307819520 bytes       117.08 MB/sec avg       120.00 MB/sec inst
+  14433648640 bytes       117.11 MB/sec avg       120.00 MB/sec inst
+  14559477760 bytes       117.13 MB/sec avg       120.00 MB/sec inst
+  14685306880 bytes       117.16 MB/sec avg       120.00 MB/sec inst
+  14811136000 bytes       117.18 MB/sec avg       120.00 MB/sec inst
+  14936965120 bytes       117.20 MB/sec avg       120.00 MB/sec inst
+  15062794240 bytes       117.13 MB/sec avg       109.09 MB/sec inst
+  15188623360 bytes       117.16 MB/sec avg       120.00 MB/sec inst
+  15315501056 bytes       117.19 MB/sec avg       121.00 MB/sec inst
+  15441330176 bytes       117.21 MB/sec avg       120.00 MB/sec inst
+  15567159296 bytes       117.23 MB/sec avg       120.00 MB/sec inst
+  15694036992 bytes       117.26 MB/sec avg       121.00 MB/sec inst
+  15820914688 bytes       117.29 MB/sec avg       121.00 MB/sec inst
+  15946743808 bytes       117.31 MB/sec avg       120.00 MB/sec inst
+  16072572928 bytes       117.33 MB/sec avg       120.00 MB/sec inst
+  16198402048 bytes       117.35 MB/sec avg       120.00 MB/sec inst
+  16325279744 bytes       117.38 MB/sec avg       121.00 MB/sec inst
+  16451108864 bytes       117.40 MB/sec avg       120.00 MB/sec inst
+  16577986560 bytes       117.42 MB/sec avg       121.00 MB/sec inst
+  16703815680 bytes       117.44 MB/sec avg       120.00 MB/sec inst
+  16829644800 bytes       117.46 MB/sec avg       120.00 MB/sec inst
+  16955473920 bytes       117.48 MB/sec avg       120.00 MB/sec inst
+  17081303040 bytes       117.50 MB/sec avg       120.00 MB/sec inst
+  17207132160 bytes       117.52 MB/sec avg       120.00 MB/sec inst
+  17334009856 bytes       117.46 MB/sec avg       110.00 MB/sec inst
+  17460887552 bytes       117.48 MB/sec avg       121.00 MB/sec inst
+  17587765248 bytes       117.51 MB/sec avg       121.00 MB/sec inst
+  17714642944 bytes       117.53 MB/sec avg       121.00 MB/sec inst
+  17841520640 bytes       117.56 MB/sec avg       121.00 MB/sec inst
+  17968398336 bytes       117.58 MB/sec avg       121.00 MB/sec inst
+  18094227456 bytes       117.60 MB/sec avg       120.00 MB/sec inst
+  18220056576 bytes       117.61 MB/sec avg       120.00 MB/sec inst
+  18346934272 bytes       117.64 MB/sec avg       121.00 MB/sec inst
+  18472763392 bytes       117.65 MB/sec avg       120.00 MB/sec inst
+  18598592512 bytes       117.67 MB/sec avg       120.00 MB/sec inst
+  18724421632 bytes       117.68 MB/sec avg       120.00 MB/sec inst
+  18849202176 bytes       117.69 MB/sec avg       119.00 MB/sec inst
+  18975031296 bytes       117.71 MB/sec avg       120.00 MB/sec inst
+  19100860416 bytes       117.72 MB/sec avg       120.00 MB/sec inst
+  19226689536 bytes       117.66 MB/sec avg       109.09 MB/sec inst
+  19353567232 bytes       117.68 MB/sec avg       121.00 MB/sec inst
+  19479396352 bytes       117.70 MB/sec avg       120.00 MB/sec inst
+  19606274048 bytes       117.72 MB/sec avg       121.00 MB/sec inst
+  19732103168 bytes       117.73 MB/sec avg       120.00 MB/sec inst
+  19858980864 bytes       117.75 MB/sec avg       121.00 MB/sec inst
+  19983761408 bytes       117.76 MB/sec avg       119.00 MB/sec inst
+  20110639104 bytes       117.78 MB/sec avg       121.00 MB/sec inst
+  20237516800 bytes       117.80 MB/sec avg       121.00 MB/sec inst
+  20364394496 bytes       117.82 MB/sec avg       121.00 MB/sec inst
+  20490223616 bytes       117.83 MB/sec avg       120.00 MB/sec inst
+  20617101312 bytes       117.85 MB/sec avg       121.00 MB/sec inst
+  20743979008 bytes       117.80 MB/sec avg       110.00 MB/sec inst
+  20869808128 bytes       117.81 MB/sec avg       120.00 MB/sec inst
+  20996685824 bytes       117.83 MB/sec avg       121.00 MB/sec inst
+  21121466368 bytes       117.84 MB/sec avg       119.00 MB/sec inst
+  21247295488 bytes       117.85 MB/sec avg       120.00 MB/sec inst
+  21374173184 bytes       117.87 MB/sec avg       121.00 MB/sec inst
+  21500002304 bytes       117.88 MB/sec avg       120.00 MB/sec inst
+  21625831424 bytes       117.89 MB/sec avg       120.00 MB/sec inst
+  21751660544 bytes       117.90 MB/sec avg       120.00 MB/sec inst
+  21877489664 bytes       117.92 MB/sec avg       120.00 MB/sec inst
+  22004367360 bytes       117.93 MB/sec avg       121.00 MB/sec inst
+  22130196480 bytes       117.95 MB/sec avg       120.00 MB/sec inst
+  22256025600 bytes       117.96 MB/sec avg       120.00 MB/sec inst
+  22382903296 bytes       117.91 MB/sec avg       110.00 MB/sec inst
+  22507683840 bytes       117.91 MB/sec avg       119.00 MB/sec inst
+
+
+
+end time = Fri Nov 22 20:51:21 2019
+total time = 205
+
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:10 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:11 2019
+start time = Sat Dec  7 20:14:12 2019
+start time = Sat Dec  7 20:14:12 2019
+start time = Sat Dec  7 20:14:12 2019
+start time = Sat Dec  7 20:14:12 2019
+start time = Sat Dec  7 20:14:12 2019
+start time = Sat Dec  7 20:14:12 2019
+start time = Sat Dec  7 20:14:12 2019
+start time = Sat Dec  7 20:14:12 2019
+start time = Sat Dec  7 20:14:12 2019
